@@ -23,7 +23,7 @@ async function get(type, ctx) {
             `${quote(`Versi: ${pkg.version}`)}\n` +
             `${quote(`Prefix: ${ctx._used.prefix}`)}\n` +
             "\n" +
-            `${italic("Jangan lupa berdonasi agar bot tetap online!")}\n` +
+            `${italic("Silahkan memilih menu yang sudah disediakan online!")}\n` +
             `${global.config.msg.readmore}\n`;
 
         for (const category of Object.keys(tag)) {

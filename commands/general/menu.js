@@ -55,7 +55,7 @@ module.exports = {
                     .setId("button2")
                     .setDisplayText("Website 🌐")
                     .setType("cta_url")
-                    .setURL("https://itsreimau.is-a.dev/rei-ayanami")
+                    .setURL("https://plniconpln.id")
                     .setMerchantURL("https://www.google.ca").build();
 
                 return await ctx.replyInteractiveMessage({
