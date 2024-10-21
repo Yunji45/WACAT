@@ -4,7 +4,7 @@
 
 ## Gambaran Umum
 
-`ckptw-wabot` adalah bot WhatsApp yang dibangun menggunakan library [@mengkodingan/ckptw](https://ckptw.mengkodingan.my.id/). Bot ini memungkinkan Anda untuk mengotomatisasi berbagai tugas di WhatsApp, serta mendukung arsitektur modular melalui sistem perintah (command).
+`wabot` adalah bot WhatsApp yang dibangun menggunakan library [@mengkodingan/ckptw](https://ckptw.mengkodingan.my.id/). Bot ini memungkinkan Anda untuk mengotomatisasi berbagai tugas di WhatsApp, serta mendukung arsitektur modular melalui sistem perintah (command).
 
 ## Fitur Utama
 
@@ -16,12 +16,12 @@
 
 ## Cara Memulai
 
-Ikuti langkah-langkah berikut untuk mengatur dan menjalankan `ckptw-wabot`:
+Ikuti langkah-langkah berikut untuk mengatur dan menjalankan `WACAT`:
 
 1. **Kloning Repositori:**
    ```bash
-   git clone https://github.com/itsreimau/ckptw-wabot.git
-   cd ckptw-wabot
+   git clone https://github.com/Yunji45/WACAT.git
+   cd WACAT
    ```
 
 2. **Instalasi Dependensi:**
@@ -106,4 +106,4 @@ Proyek ini dilisensikan di bawah [Lisensi MIT](LICENSE).
 
 ---
 
-Jelajahi, modifikasi, dan tingkatkan `ckptw-wabot` sesuai kebutuhan Anda. Selamat mencoba dan semoga sukses!
+Jelajahi, modifikasi, dan tingkatkan `WACAT` sesuai kebutuhan Anda. Selamat mencoba dan semoga sukses!
